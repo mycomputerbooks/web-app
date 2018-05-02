@@ -1,9 +1,9 @@
-/*.container {*/
-    /*max-width: 100px;*/
-    /*width: 100%;*/
-    /*background-color: #ff3d4e;*/
-/*}*/
+.container {
+    max-width: 1024px;
+    width: 100%;
+    border-style: dotted;
+}
 
 h1 {
-    color: #ff3d4e;
+    color: green;
 }

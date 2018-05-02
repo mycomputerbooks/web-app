@@ -1,0 +1,22 @@
+.container {
+    max-width: 1024px;
+    width: 100%;
+    /*border-style: solid;*/
+    margin: 0 auto;
+}
+
+.vidimage {
+    z-index: 2;
+    position: absolute;
+    left: 39px;
+    top: 42px;
+
+}
+
+.vidIcon {
+    z-index: 3;
+    position: absolute;
+    left: 232px;
+    top: 332px
+}
+

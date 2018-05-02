@@ -1,0 +1,80 @@
+/*BEM Block/Element/Modifier*/
+
+.Stage_toolBar__container {
+    position: relative;
+    width: 282px;
+    height: 41px;
+    border-style: solid;
+    margin: 0 auto;
+}
+
+/*SPANISH START ============================================*/
+.Stage_toolBar__groupEspanolOnOff{
+    position: absolute;
+    left: 134px;
+    top: 0px;
+}
+
+/*Group Espanol ============================================*/
+.Stage_toolBar__groupEspanol {
+    position: absolute;
+    left: 134px;
+    top: 2px;
+    width: 93px;
+    height: 39px;
+}
+
+/*.Stage_toolBar__espanolOverlay {*/
+    /*position: absolute;*/
+    /*left: 134px;*/
+    /*top: 0px;*/
+    /*width: 93px;*/
+    /*height: 39px;*/
+/*}*/
+
+.Stage_toolBar__espanolImage {
+    position: absolute;
+    left: 136px;
+    top: 12px;
+}
+
+/*Group Espanol_x ============================================*/
+
+/*.Stage_toolBar__groupEspanol_x  {*/
+    /*position: absolute;*/
+    /*left: 134px;*/
+    /*top: 0px;*/
+    /*width: 93px;*/
+    /*height: 39px;*/
+/*}*/
+
+/*.Stage_toolBar__espanol_xOverlay {*/
+    /*position: absolute;*/
+    /*left: 134px;*/
+    /*top: 0px;*/
+    /*width: 93px;*/
+    /*height: 39px;*/
+/*}*/
+
+/*.Stage_toolBar__espanolImage_x {*/
+    /*position: absolute;*/
+    /*left: 136px;*/
+    /*top: 12px;*/
+/*}*/
+
+/*.Stage_toolBar__lineEspanolRight {*/
+    /*background-color: #4f8bc9;*/
+    /*position: absolute;*/
+    /*left: 227px;*/
+    /*top: 2px;*/
+    /*width: 2px;*/
+    /*height: 38px;*/
+/*}*/
+
+/*SPANISH END ============================================*/
+
+/*.Stage_toolBar__ groupTactor {*/
+    /*position: absolute;*/
+    /*left: 229px;*/
+    /*top: 2px*/
+/*}*/
