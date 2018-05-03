@@ -1,80 +1,77 @@
 /*BEM Block/Element/Modifier*/
-
-.Stage_toolBar__container {
-    position: relative;
+/*This is the toolbar in Spain ampersan */
+.Stage_toolBar {
+    position: absolute;
+    left: 33px;
+    top: 706px;
     width: 282px;
     height: 41px;
     border-style: solid;
     margin: 0 auto;
+
+    &__gearImage {
+        position: absolute;
+        left: 8px;
+        top: 2px;
+    }
+
+    &__lineGearRight {
+        background-color: #4f8bc9;
+        position: absolute;
+        left: 46px;
+        top: 0px;
+        width: 2px;
+        height: 38px;
+    }
+
+    &__listenImage {
+         position: absolute;
+         left: 50px;
+         top: 9px;
+     }
+
+    &__readImage {
+         position: absolute;
+         left: 50px;
+         top: 9px;
+     }
+
+    &__lineReadingRight {
+         background-color: #4f8bc9;
+         position: absolute;
+         left: 131px;
+         top: 0px;
+         width: 2px;
+         height: 38px;
+     }
+
+    &__espanolImage {
+         position: absolute;
+         left: 136px;
+         top: 9px;
+     }
+
+    &__espanol_xImage {
+         position: absolute;
+         left: 138px;
+         top: 9px;
+     }
+
+    &__lineEspanolRight {
+         background-color: #4f8bc9;
+         position: absolute;
+         left: 227px;
+         top: 0px;
+         width: 2px;
+         height: 38px;
+     }
+
+    &__tractorImage {
+         position: absolute;
+         left: 236px;
+         top: 6px;
+     }
+
 }
 
-/*SPANISH START ============================================*/
-.Stage_toolBar__groupEspanolOnOff{
-    position: absolute;
-    left: 134px;
-    top: 0px;
-}
 
-/*Group Espanol ============================================*/
-.Stage_toolBar__groupEspanol {
-    position: absolute;
-    left: 134px;
-    top: 2px;
-    width: 93px;
-    height: 39px;
-}
-
-/*.Stage_toolBar__espanolOverlay {*/
-    /*position: absolute;*/
-    /*left: 134px;*/
-    /*top: 0px;*/
-    /*width: 93px;*/
-    /*height: 39px;*/
-/*}*/
-
-.Stage_toolBar__espanolImage {
-    position: absolute;
-    left: 136px;
-    top: 12px;
-}
-
-/*Group Espanol_x ============================================*/
-
-/*.Stage_toolBar__groupEspanol_x  {*/
-    /*position: absolute;*/
-    /*left: 134px;*/
-    /*top: 0px;*/
-    /*width: 93px;*/
-    /*height: 39px;*/
-/*}*/
-
-/*.Stage_toolBar__espanol_xOverlay {*/
-    /*position: absolute;*/
-    /*left: 134px;*/
-    /*top: 0px;*/
-    /*width: 93px;*/
-    /*height: 39px;*/
-/*}*/
-
-/*.Stage_toolBar__espanolImage_x {*/
-    /*position: absolute;*/
-    /*left: 136px;*/
-    /*top: 12px;*/
-/*}*/
-
-/*.Stage_toolBar__lineEspanolRight {*/
-    /*background-color: #4f8bc9;*/
-    /*position: absolute;*/
-    /*left: 227px;*/
-    /*top: 2px;*/
-    /*width: 2px;*/
-    /*height: 38px;*/
-/*}*/
-
-/*SPANISH END ============================================*/
-
-/*.Stage_toolBar__ groupTactor {*/
-    /*position: absolute;*/
-    /*left: 229px;*/
-    /*top: 2px*/
-/*}*/

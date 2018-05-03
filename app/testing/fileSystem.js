@@ -15,3 +15,31 @@ var myPhotoLocation = 'https://raw.githubusercontent.com/LearnWebCode/welcome-to
 https.get(myPhotoLocation, function(response) {
     response.pipe(fs.createWriteStream(__dirname + "/mydog.jpg"));
 });
+
+var i = 0;
+fs.readFile('testFile.txt', function(err, data) {
+    if(err) throw err;
+
+    fs.appendFile(__dirname + "/index.html", "\r\n", function (error) {
+        if (error) {
+            return console.log(error);
+        } else {
+            return console.log("Congrats 1st line");
+        }
+    });
+    var array = data.toString().split("\n");
+    for(i in array) {
+
+        fs.appendFile(__dirname + "/index.html", array[i] += "\r\n", function (error) {
+            if (error) {
+                return console.log(error);
+            } else {
+                return console.log("Congrats");
+            }
+        });
+
+
+        console.log(array[i]);
+    }
+});
+
