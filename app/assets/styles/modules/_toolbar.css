@@ -1,5 +1,7 @@
 /*BEM Block/Element/Modifier*/
 /*This is the toolbar in Spain ampersan */
+/*$mainBlue: #4f8bc9;*/
+
 .Stage_toolBar {
     position: absolute;
     left: 33px;
@@ -7,6 +9,7 @@
     width: 282px;
     height: 41px;
     border-style: solid;
+    border-color: $mainBlue;
     margin: 0 auto;
 
     &__gearImage {
@@ -16,7 +19,7 @@
     }
 
     &__lineGearRight {
-        background-color: #4f8bc9;
+        background-color: $mainBlue;
         position: absolute;
         left: 46px;
         top: 0px;

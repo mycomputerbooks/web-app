@@ -40,6 +40,7 @@ fs.readFile('testFile.txt', function(err, data) {
 
 
         console.log(array[i]);
+
     }
 });
 
