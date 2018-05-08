@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="747c0ced-2c0d-4608-9324-5cb02898954b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/assets/scripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/scripts/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -130,7 +130,7 @@
           <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/package.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="196">
+                <state relative-caret-position="442">
                   <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
                 </state>
               </provider>
@@ -139,8 +139,11 @@
           <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/assets/scripts/app.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="136">
-                  <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+                <state>
+                  <caret column="7" selection-start-column="7" selection-end-column="7" />
+                  <folding>
+                    <element signature="e#0#46#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -273,6 +276,69 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="web-app" type="cbb8eebc:String" user="web-app" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="web-app" type="cbb8eebc:String" user="web-app" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="web-app" type="cbb8eebc:String" user="web-app" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="assets" type="cbb8eebc:String" user="assets" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="web-app" type="cbb8eebc:String" user="web-app" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="assets" type="cbb8eebc:String" user="assets" />
+              <item name="scripts" type="cbb8eebc:String" user="scripts" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="web-app" type="cbb8eebc:String" user="web-app" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="assets" type="cbb8eebc:String" user="assets" />
+              <item name="symbols" type="cbb8eebc:String" user="symbols" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="web-app" type="cbb8eebc:String" user="web-app" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="assets" type="cbb8eebc:String" user="assets" />
+              <item name="symbols" type="cbb8eebc:String" user="symbols" />
+              <item name="toolBar" type="cbb8eebc:String" user="toolBar" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="web-app" type="cbb8eebc:String" user="web-app" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="temp" type="cbb8eebc:String" user="temp" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="web-app" type="cbb8eebc:String" user="web-app" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="temp" type="cbb8eebc:String" user="temp" />
+              <item name="styles" type="cbb8eebc:String" user="styles" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="web-app" type="cbb8eebc:String" user="web-app" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="testing" type="cbb8eebc:String" user="testing" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -383,69 +449,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="web-app" type="cbb8eebc:String" user="web-app" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="web-app" type="cbb8eebc:String" user="web-app" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="web-app" type="cbb8eebc:String" user="web-app" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="assets" type="cbb8eebc:String" user="assets" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="web-app" type="cbb8eebc:String" user="web-app" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="assets" type="cbb8eebc:String" user="assets" />
-              <item name="scripts" type="cbb8eebc:String" user="scripts" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="web-app" type="cbb8eebc:String" user="web-app" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="assets" type="cbb8eebc:String" user="assets" />
-              <item name="symbols" type="cbb8eebc:String" user="symbols" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="web-app" type="cbb8eebc:String" user="web-app" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="assets" type="cbb8eebc:String" user="assets" />
-              <item name="symbols" type="cbb8eebc:String" user="symbols" />
-              <item name="toolBar" type="cbb8eebc:String" user="toolBar" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="web-app" type="cbb8eebc:String" user="web-app" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="temp" type="cbb8eebc:String" user="temp" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="web-app" type="cbb8eebc:String" user="web-app" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="temp" type="cbb8eebc:String" user="temp" />
-              <item name="styles" type="cbb8eebc:String" user="styles" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="web-app" type="cbb8eebc:String" user="web-app" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="testing" type="cbb8eebc:String" user="testing" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -534,12 +537,22 @@
       <workItem from="1525615325738" duration="21000" />
       <workItem from="1525654421731" duration="489000" />
       <workItem from="1525701432573" duration="1364000" />
-      <workItem from="1525749458457" duration="71000" />
+      <workItem from="1525749458457" duration="458000" />
+      <workItem from="1525752913142" duration="598000" />
+      <workItem from="1525768634850" duration="554000" />
     </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1525749779636</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525749779636</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128232000" />
+    <option name="totallyTimeSpent" value="129771000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -552,17 +565,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="91" y="23" width="1024" height="959" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.46453902" visible="true" weight="0.3989796" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4609929" visible="true" weight="0.3989796" />
       <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49941725" weight="0.3290461" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502331" side_tool="true" weight="0.34623432" />
       <window_info anchor="bottom" id="Run" order="3" weight="0.57585824" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49693877" visible="true" weight="0.32777116" />
-      <window_info id="npm" order="2" sideWeight="0.535461" side_tool="true" visible="true" weight="0.3989796" />
-      <window_info anchor="bottom" id="Structure" order="8" sideWeight="0.50306123" side_tool="true" visible="true" weight="0.32777116" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.48061225" weight="0.25744936" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="11" sideWeight="0.49285713" visible="true" weight="0.32777116" />
+      <window_info id="npm" order="2" sideWeight="0.53900707" side_tool="true" visible="true" weight="0.3989796" />
+      <window_info anchor="bottom" id="Structure" order="8" sideWeight="0.50714284" side_tool="true" visible="true" weight="0.32777116" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.47959185" weight="0.25744936" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info id="Favorites" order="1" sideWeight="0.5012854" side_tool="true" weight="0.30710956" />
       <window_info anchor="right" auto_hide="true" x="2409" y="245" width="894" height="1046" id="Notes" order="3" type="FLOATING" weight="0.3297609" />
@@ -571,7 +583,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" order="0" sideWeight="0.49941725" weight="0.3290461" />
-      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.4989796" weight="0.32896304" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="2" />
@@ -608,6 +620,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -824,7 +840,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
+        <state relative-caret-position="442">
           <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
         </state>
       </provider>
@@ -838,8 +854,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
